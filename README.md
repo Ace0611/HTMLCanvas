@@ -1,2 +1,0 @@
-# HTMLCanvas
-Created with CodeSandbox
